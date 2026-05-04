@@ -37,6 +37,7 @@ cargo install --path .
 ```
 
 That installs `voice-mcp.exe` into Cargo's bin directory.
+On Windows, that's usually `%USERPROFILE%\.cargo\bin\voice-mcp.exe`.
 
 ## MCP config
 
